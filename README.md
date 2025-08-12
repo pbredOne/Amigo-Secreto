@@ -7,7 +7,7 @@ Aplicação simples e divertida em **HTML + CSS + JavaScript** para organizar e 
 ## 📸 Capturas de tela
 
 ### Página inicial
-![Página inicial](assets/Tela-inicial.png)
+<img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/e45ee7f6-bbad-4bbb-879d-212f4fcc6e89" />
 
 ### Lista de participantes
 ![Lista de nomes](assets/lista-de-amigos.png)
