@@ -10,7 +10,7 @@ Aplicação simples e divertida em **HTML + CSS + JavaScript** para organizar e 
 <img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/e45ee7f6-bbad-4bbb-879d-212f4fcc6e89" />
 
 ### Lista de participantes
-![Lista de nomes](assets/lista-de-amigos.png)
+<img width="822" height="348" alt="Image" src="https://github.com/user-attachments/assets/d5a25d38-8a57-453c-8f6c-f1373357bfd1" />
 
 ### Resultado do sorteio
 ![Resultado do sorteio](assets/Nome-sorteado.png)
